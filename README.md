@@ -1,2 +1,8 @@
-# SCC0201 Introduction to Computer-Science II
-some codes using sorting algorithms that I learned in this subject
+# SCC0201
+Introduction to Computer-Science II
+# Summary
+Sorting data using structs in C.
+# Projects
+`Wine Menu` :
+`School Grades` :
+`Login System` :
