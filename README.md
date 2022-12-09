@@ -1,8 +1,8 @@
-# SCC0201
+# 🧪 SCC0201
 Introduction to Computer-Science II
-# Summary
+# 📖 Summary
 Sorting data using structs in C.
-# Projects
-`Wine Menu` :
-`School Grades` :
-`Login System` :
+# 💡 Projects
+- `Wine Menu` :
+- `School Grades` :
+- `Login System` :
