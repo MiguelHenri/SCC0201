@@ -1,5 +1,5 @@
 # 🧪 SCC0201
-Introduction to Computer-Science II
+Introduction to Computer Science II
 # 📖 Summary
 Sorting data using structs in C.
   
